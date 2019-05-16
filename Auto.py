@@ -1,4 +1,5 @@
-# Coded By Fallyn #
+#achmad404#
+
 import requests, json, sys, os, hashlib, getpass
 from multiprocessing.pool import ThreadPool
 os.system("clear")
