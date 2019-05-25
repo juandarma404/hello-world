@@ -25,7 +25,7 @@ f=raw_input("[!] beli? y/n): ").lower()
 if f =="y":
     subprocess.check_output(
 								["am","start",
-				"https://api.whatsapp.com/send?phone=62085608035292&text=helo%20admin%20saya%20ingin%20membeli%20tool%20FacebookMultiBruteForce%20premium"])
+				"https://api.whatsapp.com/send?phone=6285808367315&text=helo%20admin%20saya%20ingin%20membeli%20tool%20FacebookMultiBruteForce%20premium"])
 print(y+pm)
 exit('\n\x1b[1;91m[\x1b[1;96m\xe2\x9c\x93\x1b[1;91m] \x1b[1;92mterimakasih atas jawaban anda.')
     
